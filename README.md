@@ -25,7 +25,14 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://imgur.com/a/kNexO5c.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<div>
+    <a href="https://www.loom.com/share/657d01ebf50c45e3b7344ea5433593ef">
+      <p>Loom | Free Screen & Video Recording Software | Loom - 25 February 2024 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/657d01ebf50c45e3b7344ea5433593ef">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/657d01ebf50c45e3b7344ea5433593ef-with-play.gif">
+    </a>
+  </div>
 
 
 ## Notes
